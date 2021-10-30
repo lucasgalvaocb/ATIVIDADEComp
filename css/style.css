@@ -1,0 +1,48 @@
+/* CORPO */
+
+ body {
+ 	font-family: Nunito, sans-serif;
+ 	color: #000000;
+ }
+
+ h1 {
+ 	font-style: American Typewriter, serif;
+ 	color: #000000;
+ }
+
+h2 {
+	font-style: Yellowtail, sans-serif;
+	color: Darkred;
+
+}
+
+table {
+	border-collapse: collapse;
+	border: 3px solid rgb(100, 130, 40);
+	width: 100%;
+
+}
+tbody {
+	border-collapse: collapse;
+	border: 3px solid rgb(100, 130, 40);
+	font-size: 90%;
+	font-style: italic;
+	letter-spacing: 1px;
+}
+
+ thead {
+ 	color: Darkred;
+ }
+ td {
+ 	border-collapse: collapse;
+	border: 3px solid rgb(100, 130, 40);
+ 	text-align: center;
+ 	border: 1px solid rgb (100, 130, 40);
+ 	color: Darkred;
+ }
+  ol {
+
+  	color: Red;
+  }
+
+ 
